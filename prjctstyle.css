@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&family=Tangerine:wght@400;700&display=swap");
+
+body {
+    background-color: rgb(218, 180, 108);
+}
+
+.name {
+	font-family: "Tangerine", cursive;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#image1 {
+    border-radius: 900px;
+}
